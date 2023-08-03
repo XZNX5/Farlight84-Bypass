@@ -1,5 +1,8 @@
 # Farlight84  Bypass
 
+# *Disclamer
+***The use of this project is the sole responsibility of the user. I am not responsible for any consequences arising from the use of this tool in games protected by anti-cheat systems. We strongly recommend that users refrain from using cheating tools or any other activity that violates the games terms of service***
+
 
 it's a simple bypass in C# but it's working for now so you can inject your dlls
 
